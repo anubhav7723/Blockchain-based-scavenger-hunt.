@@ -22,4 +22,5 @@ A decentralized scavenger hunt utilizing blockchain, smart contracts, and NFTs t
 - **Tamper-Proof Solutions:** Smart contract verification prevents cheating.
 
 ## Contract Address
-0xE82B2Bdf05903b6DbE0782d84518FC4b29182bb4
+0x74530032e33553C0f43410EED97357cda84eFB90
+![image](https://github.com/user-attachments/assets/b928f847-a614-40c6-8a54-8e5c14bae93e)
