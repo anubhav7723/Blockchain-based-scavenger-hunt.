@@ -26,5 +26,5 @@ A decentralized scavenger hunt utilizing blockchain, smart contracts, and NFTs t
 ![image](https://github.com/user-attachments/assets/b928f847-a614-40c6-8a54-8e5c14bae93e)
 
 
-##Frontend WebPage
+## Frontend WebPage
 ![image](https://github.com/user-attachments/assets/b4f4f4a6-afa2-47d5-aa80-8ba3efbc6844)
