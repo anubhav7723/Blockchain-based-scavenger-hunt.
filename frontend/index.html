@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming Skins NFT</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.4/web3.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Gaming Skins NFT</h1>
+        
+        <div class="card">
+            <h2>Mint New Skin</h2>
+            <input type="text" id="skinName" placeholder="Enter Skin Name">
+            <input type="text" id="skinMetadata" placeholder="Enter Metadata URL">
+            <button onclick="mintSkin()">Mint Skin</button>
+        </div>
+
+        <div class="card">
+            <h2>Transfer Skin</h2>
+            <input type="number" id="skinId" placeholder="Enter Skin ID">
+            <input type="text" id="recipient" placeholder="Recipient Address">
+            <button onclick="transferSkin()">Transfer Skin</button>
+        </div>
+
+        <div class="card">
+            <h2>Burn Skin</h2>
+            <input type="number" id="burnSkinId" placeholder="Enter Skin ID">
+            <button onclick="burnSkin()">Burn Skin</button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
