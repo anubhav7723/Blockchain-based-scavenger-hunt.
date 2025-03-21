@@ -24,3 +24,7 @@ A decentralized scavenger hunt utilizing blockchain, smart contracts, and NFTs t
 ## Contract Address
 0x74530032e33553C0f43410EED97357cda84eFB90
 ![image](https://github.com/user-attachments/assets/b928f847-a614-40c6-8a54-8e5c14bae93e)
+
+
+##Frontend WebPage
+![image](https://github.com/user-attachments/assets/b4f4f4a6-afa2-47d5-aa80-8ba3efbc6844)
